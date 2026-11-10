@@ -165,9 +165,3 @@ The following table describes the intended API operations. Update the endpoint p
 - Understood JSON data exchange between frontend and backend.
 - Connected frontend and backend using JavaScript Fetch API.
 - Applied relational database concepts for data management.
-
-## 👨‍💻 Author
-
-**Your Name**
-
-- GitHub: YOUR_GITHUB_PROFILE_LINK
